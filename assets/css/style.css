@@ -1,0 +1,29 @@
+.border-top {
+    border-top: 1px solid #ddd;
+}
+.border-bottom {
+    border-bottom: 1px solid #ddd;
+}
+.border-right {
+    border-right: 1px solid #ddd;
+}
+.border-left {
+    border-left: 1px solid #ddd;
+}
+.borders {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    margin: -1px;
+}
+.sell {
+	color: red;
+}
+.buy {
+	color: green;
+}
+.better {
+	font-weight:bold !important;
+}
+tbody .deal {
+	background-color: #ffc107 !important;
+}
